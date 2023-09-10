@@ -2,7 +2,7 @@
 
 I'm a cloud architect / platform engineer, specialized in [Microsoft Azure](https://github.com/Azure), Kubernetes and infrastructure automation. I hold [several certifications](https://www.credly.com/users/rdvansloten/badges) for Microsoft Azure, DevOps and other cloud native tools.
 
-In my free time, I enjoy 🤖 building Gunpla, 🎮 playing video games / tinkering with video game development and 🐶 going out with my pet Corgi.
+In my free time, I enjoy 🤖 building Gunpla, 🎮 playing / developing video games and 🐶 hanging out with my pet Corgi.
 
 #### Latest achievements
 - 💯 Renewed certification [Hashicorp Certified: Terraform Associate](https://www.credly.com/badges/9828a12c-ec33-4d4c-840a-0dbcc0f0da83)
