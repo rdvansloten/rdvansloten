@@ -4,6 +4,8 @@ I'm a cloud architect / platform engineer, specialized in [Microsoft Azure](http
 
 In my free time, I enjoy 🤖 building Gunpla, 🎮 playing / developing video games and 🐶 hanging out with my pet Corgi.
 
+<br />
+
 #### Latest achievements
 - 💯 Renewed certification [Hashicorp Certified: Terraform Associate](https://www.credly.com/badges/9828a12c-ec33-4d4c-840a-0dbcc0f0da83)
 - 🐶 Adopted [Haro the Corgi](https://imgur.com/4nEPhT9)
