@@ -6,8 +6,9 @@ In my free time, I enjoy 🤖 building Gunpla, 🎮 playing / developing video g
 
 
 #### Latest achievements
+- ☁️ Started new assignment at [Hyfen](https://www.hyfen.eu)
 - ☁️ Started new assignment at 🍴 [Ahold Delhaize](https://www.aholddelhaize.com)
-- ☁️ Quit [Nordcloud, an IBM Company](https://nordcloud.com) and founded 🦄 [Yunikon](http://yunikon.nl)
+- 🦄 Founded [Yunikon](http://yunikon.nl)
 - 💯 Renewed certification [Hashicorp Certified: Terraform Associate](https://www.credly.com/badges/9828a12c-ec33-4d4c-840a-0dbcc0f0da83)
 - 🐶 Adopted [Haro the Corgi](https://i.imgur.com/4nEPhT9.jpeg)
 - 💯 Got certification [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/dad38b00-7635-4702-96db-eea8bfafb93f)
